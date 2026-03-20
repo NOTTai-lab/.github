@@ -1,59 +1,220 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NYXConstructor/.github/main/assets/logoNOTT.png" width="260" alt="NOTT Logo">
-</p>
+<div align="center">
 
-<h1 align="center">NOTT</h1>
+<img src="../assets/замени_цетаа_следующим_образом_текст_ff8c00_лин.png" width="300"/>
 
----
+</div>
 
-NOTT is a next-generation commerce automation platform designed to radically simplify online shop ownership and eliminate operational time waste.  
-We build intelligent, self-adaptive systems that transform complex e-commerce workflows into streamlined, automated processes — allowing businesses to focus on growth rather than infrastructure, content, or repetitive manual tasks.
+<div align="center">
+<br/>
 
-At its core, NOTT integrates a hierarchy of AI-driven agents responsible for catalog management, product enrichment, pricing logic, content generation, and storefront adaptation.  
-These agents operate within a controlled orchestration layer, continuously improving store quality, consistency, and conversion efficiency while preserving full human oversight and governance.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=3000&color=888880&center=true&vCenter=true&width=900&lines=AI+modules+for+e-commerce+%E2%80%94+built+on+our+own+cluster%2C+priced+flat%2C+private+by+design.)](https://git.io/typing-svg)
 
-NOTT is engineered for scalability and resilience.  
-The platform dynamically adapts to store size, product diversity, and traffic patterns — whether supporting a small niche shop or a large multi-category enterprise marketplace.  
-Through modular services, secure APIs, and event-driven architecture, NOTT ensures that automation remains predictable, auditable, and aligned with business intent.
+<br/>
 
-Beyond operational automation, NOTT focuses on reducing cognitive and administrative load.  
-Store owners are no longer required to manually manage repetitive tasks such as product descriptions, category structuring, metadata optimization, or layout adjustments.  
-Instead, NOTT acts as an intelligent operational layer that absorbs complexity and converts it into clear, actionable outcomes.
+![](https://img.shields.io/badge/Own%20AI%20Cluster-FF8C00?style=for-the-badge&labelColor=0F0F12&color=FF8C00)
+&nbsp;
+![](https://img.shields.io/badge/Static%20Pricing-FF8C00?style=for-the-badge&labelColor=0F0F12&color=FF8C00)
+&nbsp;
+![](https://img.shields.io/badge/Full%20Data%20Privacy-FF8C00?style=for-the-badge&labelColor=0F0F12&color=FF8C00)
+&nbsp;
+![](https://img.shields.io/badge/Status-Testing%20Stage-3DCC80?style=for-the-badge&labelColor=0F0F12&color=3DCC80)
 
-NOTT is not a marketplace, nor a black-box AI solution.  
-It is an infrastructure platform — designed to give businesses full ownership of their data, logic, and brand identity while dramatically reducing the time and effort required to run an online store.
+</div>
 
 ---
 
-## Our Values  
-- **Efficiency by Design** — every component exists to reduce wasted time, effort, and operational friction.  
-- **Controlled Automation** — AI assists and accelerates decision-making, but never replaces human authority.  
-- **Scalability & Stability** — the system grows with the business without introducing instability or hidden complexity.  
-- **Transparency & Trust** — all automated actions are traceable, explainable, and configurable.  
-- **Product-Centric Thinking** — automation serves the product, the brand, and the customer experience.
+<div align="center">
+
+## 🔶 &nbsp; Custom. Individual. Integrated.
+
+### We build AI modules that connect directly to your outer systems —<br/>your database, ERP, CRM, or any external register.<br/>No generic plugins. No shared infrastructure. No Big Tech middlemen.
+
+</div>
 
 ---
 
-## Mission & Vision  
+<br/>
 
-**Mission**  
-To make online shop ownership fundamentally easier by removing operational overhead, minimizing repetitive work, and enabling businesses to operate efficiently with fewer resources.  
-NOTT exists to return time, focus, and strategic clarity back to store owners — without sacrificing control, quality, or security.
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-**Vision**  
-We envision a future where managing an online store no longer requires constant manual intervention.  
-A future where commerce platforms are intelligent, adaptive, and supportive by default — allowing entrepreneurs and enterprises alike to scale confidently, move faster, and compete globally without operational exhaustion.  
-NOTT aims to become the invisible backbone of modern commerce automation.
+<br/>
+
+**⬡**
+
+### Own AI Cluster
+
+Models run on our own infrastructure.
+No routing through OpenAI, Azure, or Google.
+Your requests never touch Big Tech servers.
+
+<br/>
+
+</td>
+<td width="1" bgcolor="#222228"></td>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+**◈**
+
+### Static Pricing
+
+Buy access to a model port — use it without counting tokens or watching invoices spike. One price. Unlimited usage within port limits.
+
+<br/>
+
+</td>
+<td width="1" bgcolor="#222228"></td>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+**◎**
+
+### Full Data Privacy
+
+Client data never leaves NOTT infrastructure. No third-party logs. No telemetry. Promise-backed by architecture.
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Contacts  
-**Email:** daniel.lemeszczenko@gmail.com  
-**Phone:** +48 889 094 033
-*Reach out for partnerships, platform integrations, or enterprise-level deployments.*
+## What we build
+
+NOTT connects AI directly to your existing data — product catalogues, customer records, order history — and puts intelligent tooling in the hands of e-commerce operators.
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📄 &nbsp;Content Generator
+Upload an Excel sheet — AI outputs product descriptions, categories, tags, and SEO metadata at scale. Hours of copywriting work reduced to minutes.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp;Storefront Assistant
+Conversational AI embedded directly on your shop, trained on your specific catalogue, pricing, and policies. Always available, always on-brand.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 &nbsp;Data Connector
+Hooks into your existing DB, ERP, CRM, or any external register — zero migration required. AI reads and writes where your data already lives.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥 &nbsp;Admin Monitor
+Unified dashboard to configure, observe, and control every active AI module across all your integrations — in real time.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **Custom development is our core offering.**
+> Every client gets a module built specifically for their stack, their data shape, and their workflow.
+> We don't sell subscriptions to generic tools.
+
+<br/>
 
 ---
 
-<p align="center">
-  <sub>© 2025 NOTT • Intelligent Commerce Automation</sub>
-</p>
+## Why NOTT
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+### ∞
+**Unlimited usage**
+per model port
+
+</td>
+<td align="center" width="25%">
+
+### 0
+**Third-party servers**
+involved in your requests
+
+</td>
+<td align="center" width="25%">
+
+### 1
+**Flat monthly price**
+no per-token surprises
+
+</td>
+<td align="center" width="25%">
+
+### 100%
+**Custom-built**
+for your specific systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## Get in touch
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center">
+<img width="300" height="1" src="https://raw.githubusercontent.com/YOUR_ORG/.github/main/assets/logo.png" style="opacity:0"/>
+
+🌐 &nbsp;**Website**
+<br/>
+[https://nottlab.org/](#)
+
+</td>
+<td align="center">
+<img width="300" height="1" src="https://raw.githubusercontent.com/YOUR_ORG/.github/main/assets/logo.png" style="opacity:0"/>
+
+✉️ &nbsp;**Email**
+<br/>
+daniel.lemeszczenko@gmail.com
+
+</td>
+<td align="center">
+<img width="300" height="1" src="https://raw.githubusercontent.com/YOUR_ORG/.github/main/assets/logo.png" style="opacity:0"/>
+
+📞 &nbsp;**Phone**
+<br/>
++48 889 094 033
+
+</td>
+</tr>
+</table>
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%"/>
+
+*Pre-launch · 2025 · Built on our own infrastructure*
+
+</div>
