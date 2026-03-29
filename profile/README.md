@@ -194,7 +194,7 @@ for your specific systems
 
 ✉️ &nbsp;**Email**
 <br/>
-daniel.lemeszczenko@gmail.com
+nott.ai.lab@gmail.com
 
 </td>
 <td align="center">
